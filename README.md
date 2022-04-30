@@ -2,6 +2,7 @@
 
 1)Plot channel location simply
 
+![CHLOC](https://user-images.githubusercontent.com/96732467/166120700-4cd646e1-fc46-47fb-bf4a-fe24aca7373a.png)
 
 2)Source localization    
 3)Band pass filtering to get beta and mu band information    
