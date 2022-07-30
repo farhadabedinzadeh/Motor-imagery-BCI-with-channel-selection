@@ -1,6 +1,10 @@
 clc
 clear
 close all
+%% '================ Written by Farhad AbedinZadeh ================'
+%                                                                 %
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %  
+
 %% author farhad abedinzadeh
 
 
